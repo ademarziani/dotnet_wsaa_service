@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+	<segundos>5</segundos>
+	<servicio>wsfe</servicio>
+	<rutapfx>C:\Andres\DBFS\openssl\homologacion\wsfe.pfx</rutapfx>
+	<passpfx>andres</passpfx>
+	<homologacion>1</homologacion>
+</configuracion>
